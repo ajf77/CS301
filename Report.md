@@ -5,7 +5,7 @@
 
 ## Abstract
 
-The problem that is to be solved is the ability for a given natural question to be answered using. More specifically, a question in a given natural language is to be given an answer. The method by which this problem will be solved is by first interpreting the natural language question, and then searching for the answer using an existing dataset, otherwise known as a longform Q&A system. In this instance, I will be using the Haystack NLP framework. This framework allows for database entries to be inputted, giving items to be used for searching. Natural language questions can then be inputted into the framework. Certain parameters of Haystack can also be modified to help refine the search and retrieve more accurate results. The more accurate the desired results, the longer it will take to retrieve them.
+The problem that is to be solved is the ability for a given natural question to be answered using natural language. More specifically, a question in a given natural language is to be given an answer. The method by which this problem will be solved is by first interpreting the natural language question, and then searching for the answer using an existing dataset, otherwise known as a longform Q&A system. In this instance, I will be using the Haystack NLP framework. This framework allows for database entries to be inputted, giving items to be used for searching. Natural language questions can then be inputted into the framework. Certain parameters of Haystack can also be modified to help refine the search and retrieve more accurate results. The more accurate the desired results, the longer it will take to retrieve them.
 
 ## Introduction
 
