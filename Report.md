@@ -38,6 +38,13 @@ For my experiment I wanted to see the difference in results if I modified the pr
 The first two, while they yielded the exact same results, the second one took much longer to complete.
 
 top_k=10
+![image](https://user-images.githubusercontent.com/81988615/144360103-215c91be-67a2-443b-8640-d5af336c81ea.png)
+
+top_k=20
+![image](https://user-images.githubusercontent.com/81988615/144360126-9db001f0-ed87-4605-be6b-e73f026df846.png)
+
+top_k=5
+![image](https://user-images.githubusercontent.com/81988615/144360140-1857371a-c2dc-4bf6-bd6c-3d57d1dc08a6.png)
 
 ## Conclusion
 To conclude, I have learned that Longform Q&A systems have advanced to the point that they can accurately answer different forms of natural language questions. Haystack is a good example of how powerful and useful Longform Q&A can be.  Exploring the features of Haystack, it can be seen how simple it is to allow the question pipeline to take in a question and then be able to produce an answer just by providing data. Haystack also shows that it can return an answer that is also in natural language, allowing for users to be able to ask questions and get answers without any technical knowledge.
